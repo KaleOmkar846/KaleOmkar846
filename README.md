@@ -44,11 +44,11 @@ Hackathons | Competitive Programming
 
 📊 GitHub Stats
 <p align="center">
-<a href="https://github.com/nitinc264">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
+<a href="https://github.com/KaleOmkar846">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaleOmkar846&show_icons=true&theme=radical&rank_icon=github" alt="Omkar GitHub Stats"/>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=nitinc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=KaleOmkar846&theme=gruvbox&row=1" alt="GitHub Trophies"/>
 </a>
 </p>
 
